@@ -17,6 +17,7 @@
 from .body_models import (
     create,
     SMPL,
+    SMIL,
     SMPLH,
     SMPLX,
     MANO,
